@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @codewithaadi
-- 👀 I’m interested in CPP, Web Development, Android
-- 🌱 I’m currently learning Web D
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: codewithaadi31@gmail.com
+- 👀 I’m interested in CPP, Web Development and Cloud Computing.
+- 🌱 I’m currently learning Web Development.
+- 📫 How to reach me: codewithaadi31@gmail.com / mishraditya31@gmail.com 
 
 <!---
 codewithaadi/codewithaadi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
